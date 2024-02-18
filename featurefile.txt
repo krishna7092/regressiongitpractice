@@ -5,9 +5,9 @@ scenario 2
 
 
 
-scenario one time animation
+scenario one time animation RTP
 
-scenario available to spend
+scenario available to spend RTP
 
 
 
